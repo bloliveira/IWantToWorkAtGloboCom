@@ -1,19 +1,67 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Área de Jornalismo
+* Área de Entretenimento
+* Área de Webmedia
+* Área de Home
+* Plataforma de Cadastro
+* Plataforma de Comentários
+* Mobile
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Dados Pessoais
+---
+Bruno Oliveira
+(casado, 28 anos)<br>
+Rua Jaime Poggi 99 BL2 AP1304 - JACAREPAGUA - RJ<br>
+Tel.: 8462-8945
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Objetivo
+---
+Desenvolver soluções multi-disciplinares em TI com rapidez, eficiência e praticidade.
+Utilizando recursos atuais, primando pela qualidade, trabalho em equipe e aprendizado
+contínuo.
+
+Formação Acadêmica
+--
+* Desenvolvimento móvel com iOS 5 | IP-67 - Caelum Ensino e Inovação
+* Graduação em Informática (Sistemas de Informação) - UNESA
+* Ensino Médio Técnico em Informática - FAETEC
+
+Mini Currículo
+---
+
+Objective-C, C#, WebForms, MVC, WebServices, WCF, WWF, Linq, CruiseControl, MVP, DDD,
+TDD, EXTjs, XML, XSLT, nHibernate, ActiveRecord, IoC, jQuery, jQueryMobile, knockoutjs, SummyJs, Selenium, SPA, REST.
+
+Experiência Profissional
+---
+**Perlink Consultoria & Sistemas**
+*(12/2007 até a presente data)*<br>
+Arquiteto/desenvolvedor de software em c# e mobile para clientes como Oi,
+Banco BVA, Multiplan, Lafarge.<br>
+Tecnologias: Objective-C, C#, WebForms, MVC, WebServices, WCF, WWF, Linq,
+CruiseControl, MVP, DDD, TDD, EXTjs, XML, XSLT, nHibernate, ActiveRecord,
+IoC, jQuery, jQueryMobile, knockoutjs, SummyJs, Selenium, SPA, REST.
+
+**Comercial Importadora SÉPIA LTDA**
+*(08/2004 - 12/2007)*<br>
+Desenvolvimento de aplicativos e-Commerce (Lojas virtuais, Meios de
+pagamentos, integração de sistemas) , sites, e-marketing. Utilizando C#, PHP, Coldfusion.
+
+**Proevo - www.proevo.com.br**
+*(04/2003 - 08/2004)*<br>
+Analise e desenvolvimento de aplicativos / sistemas em PHP com banco de
+dados mysql, criação de design para Web. Atendendo empresas do ramo de
+eventos.
+
+Formação / Cursos Adicionais: 
+---
+* QCon São Paulo 2010
+* QCon São Paulo 2011
+* QCon São Paulo 2012
+* Treinamento de Gerencia de Configuração
+* Treinamento em Modelos de Qualidade de Software
