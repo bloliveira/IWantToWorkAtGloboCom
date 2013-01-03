@@ -35,7 +35,7 @@ Mini Currículo
 ---
 
 Objective-C, C#, WebForms, MVC, WebServices, WCF, WWF, Linq, CruiseControl, MVP, DDD,
-TDD, EXTjs, XML, XSLT, nHibernate, ActiveRecord, IoC, jQuery, jQueryMobile, knockoutjs, SummyJs, Selenium, SPA, REST.
+TDD, EXTjs, XML, XSLT, nHibernate, ActiveRecord, IoC, jQuery, jQueryMobile, knockoutjs, SummyJs, Selenium, SPA, REST, Metodologias Ágeis.
 
 Experiência Profissional
 ---
@@ -45,7 +45,7 @@ Arquiteto/desenvolvedor de software em c# e mobile para clientes como Oi,
 Banco BVA, Multiplan, Lafarge.<br>
 Tecnologias: Objective-C, C#, WebForms, MVC, WebServices, WCF, WWF, Linq,
 CruiseControl, MVP, DDD, TDD, EXTjs, XML, XSLT, nHibernate, ActiveRecord,
-IoC, jQuery, jQueryMobile, knockoutjs, SummyJs, Selenium, SPA, REST.
+IoC, jQuery, jQueryMobile, knockoutjs, SummyJs, Selenium, SPA, REST, Metodologias Ágeis.
 
 **Comercial Importadora SÉPIA LTDA**
 *(08/2004 - 12/2007)*<br>
